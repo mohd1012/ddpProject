@@ -1,3 +1,4 @@
+## ui.R
 shinyUI(fluidPage(
   titlePanel("Blood sugar levels in diagnosing diabetes"),
   
